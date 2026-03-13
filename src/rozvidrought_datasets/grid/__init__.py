@@ -12,3 +12,4 @@ from .spec import (
     BOTTOM,
     TOP,
 )
+from .indexing import row_col_to_pixel_id, pixel_id_to_row_col
