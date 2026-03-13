@@ -15,3 +15,4 @@ from .spec import (
 from .indexing import row_col_to_pixel_id, pixel_id_to_row_col
 from .locator import coord_to_row_col, coord_to_pixel_id
 from .bounds import pixel_id_to_bounds
+from .grid import RozviGrid
