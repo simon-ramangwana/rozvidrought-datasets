@@ -13,3 +13,4 @@ from .spec import (
     TOP,
 )
 from .indexing import row_col_to_pixel_id, pixel_id_to_row_col
+from .locator import coord_to_row_col, coord_to_pixel_id
