@@ -10,6 +10,10 @@ authors = [{name = "Simon Mutunga"}]
 readme = "README.md"
 requires-python = ">=3.9"
 
+dependencies = [
+    "shapely>=2.0"
+]
+
 [tool.setuptools]
 package-dir = {"" = "src"}
 
